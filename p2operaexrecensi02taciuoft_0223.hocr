@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p2operaexrecensi02taciuoft_0223.png"; bbox 0 0 1858 3164; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 393 1076 1322 1157">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 393 1076 1322 1157">
+     <span class='ocr_line' id='line_1_1' title="bbox 393 1076 1322 1157; baseline -0.022 0"><span class='ocrx_word' id='word_1_1' title='bbox 393 1085 841 1157; x_wconf 87' lang='lat' dir='ltr'>NICOLAI</span> <span class='ocrx_word' id='word_1_2' title='bbox 906 1076 1322 1144; x_wconf 84' lang='lat' dir='ltr'>HEINSII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 239 1265 1471 1387">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 239 1265 1471 1387">
+     <span class='ocr_line' id='line_1_2' title="bbox 239 1265 1471 1387; baseline -0.021 1"><span class='ocrx_word' id='word_1_3' title='bbox 239 1265 1471 1387; x_wconf 81' lang='lat' dir='ltr'><strong>ANIMADVERSA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 485 1521 1228 1579">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 485 1521 1228 1579">
+     <span class='ocr_line' id='line_1_3' title="bbox 485 1521 1228 1579; baseline -0.019 0"><span class='ocrx_word' id='word_1_4' title='bbox 485 1534 575 1579; x_wconf 80' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 604 1527 816 1575; x_wconf 86' lang='lat' dir='ltr'>TACITI</span> <span class='ocrx_word' id='word_1_6' title='bbox 848 1525 966 1570; x_wconf 86' lang='lat' dir='ltr'>LIB.</span> <span class='ocrx_word' id='word_1_7' title='bbox 995 1521 1228 1568; x_wconf 84' lang='lat' dir='ltr'>ANNAL.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
